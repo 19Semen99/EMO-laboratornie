@@ -1,0 +1,27 @@
+﻿<Window x:Class="gen_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gen_2"
+        xmlns:oxy="clr-namespace:OxyPlot.Wpf;assembly=OxyPlot.Wpf" 
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1093.4">
+    <Grid>
+        <!-- The OxyPlot control is binding to a PlotModel in the MainViewModel -->
+        <oxy:PlotView x:Name="testPlotView" Model="{Binding Model}" Margin="382,0,-0.2,0.4" />
+        <Button Content="Старт" HorizontalAlignment="Left" Margin="24,191,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click_2" RenderTransformOrigin="0.5,0.5" FontSize="14" Height="34"></Button>
+        <Label Content="Кол-во итераций:" HorizontalAlignment="Left" Margin="24,155,0,0" VerticalAlignment="Top"/>
+        <Label Content="Отклонение X:" HorizontalAlignment="Left" Margin="45,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Отклонение Y:" HorizontalAlignment="Left" Margin="45,68,0,0" VerticalAlignment="Top"/>
+        <Label Content="Кол-во хромосом:" HorizontalAlignment="Left" Margin="24,14,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="306" Margin="19,242,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="344" Panel.ZIndex="-1" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Visible"/>
+        <TextBox x:Name="textBlock1" HorizontalAlignment="Left" Height="23" Margin="139,159,0,0" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="65" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="textBlock2" HorizontalAlignment="Left" Height="23" Margin="139,18,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="65"/>
+        <TextBox x:Name="textBlock3" HorizontalAlignment="Left" Height="23" Margin="139,44,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="65"/>
+        <TextBox x:Name="textBlock4" HorizontalAlignment="Left" Height="23" Margin="139,73,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="65"/>
+        <Button Content="Сгенерировать геном" HorizontalAlignment="Left" Margin="24,107,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click_1" RenderTransformOrigin="0.5,0.5" FontSize="14" Height="34"/>
+
+
+    </Grid>
+</Window>
