@@ -1,0 +1,59 @@
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+C:\Users\ACER\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.AssemblyReference.cache
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.CoreCompileInputs.cache
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+D:\source\repos\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 1\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 3\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe.config
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\bin\Debug\Лаба 4 ИИ.pdb
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Form1.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба_4_ИИ.Properties.Resources.resources
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.exe
+C:\Users\Илья\Desktop\Текущие предметы\Васяева\Лабораторная 4\Лаба 4 ИИ\Лаба 4 ИИ\obj\Debug\Лаба 4 ИИ.pdb
