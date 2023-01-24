@@ -1,0 +1,10 @@
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\bin\Debug\ЭМО лабораторная 7.exe.config
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\bin\Debug\ЭМО лабораторная 7.exe
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\bin\Debug\ЭМО лабораторная 7.pdb
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО лабораторная 7.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО_лабораторная_7.Form1.resources
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО_лабораторная_7.Properties.Resources.resources
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО лабораторная 7.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО лабораторная 7.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО лабораторная 7.exe
+C:\Users\Илья\source\repos\ЭМО лабораторная 7\ЭМО лабораторная 7\obj\Debug\ЭМО лабораторная 7.pdb
